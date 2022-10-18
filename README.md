@@ -22,7 +22,7 @@
 <li>Tailwind CSS</li>
 </ul><ul>
 <li>Redux toolkit</li>
-</ul><h2>Features</h2>
+</ul><h2>Functionalities</h2>
 <hr><ul>
 <li>Music Player</li>
 </ul><ul>
@@ -44,8 +44,4 @@ Where are they stored</p><h5>Steps</h5><ul>
 </ul><h2>Usage</h2>
 <hr><p>How can one use it? Provide various use cases</p><h2>Improvements</h2>
 <hr><ul>
-<li>Improvements</li>
-</ul><h2>Features that can be added</h2>
-<hr><ul>
-<li>Features that can be added</li>
-</ul>
+
